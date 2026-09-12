@@ -13,13 +13,9 @@ It uses a simple frontend with a Node.js/Express backend and MySQL database.
 * Today's spending
 * Transaction count
 * Highest and lowest spending
-* Recent expenses
-* Spending by category
-* Financial spending insight
 
 ### 💳 Expense Management
 
-* Add expenses
 * Edit expenses
 * Delete expenses
 * Search expenses
@@ -84,7 +80,7 @@ SpendWise/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/spendwise.git
+git clone https://github.com/sanguine796/spendwise.git
 cd spendwise
 ```
 
